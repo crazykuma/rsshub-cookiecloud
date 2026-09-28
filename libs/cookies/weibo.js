@@ -1,5 +1,5 @@
 export default {
-    "WEIBO_COOKIE": [
+    "WEIBO_COOKIES": [
         {
             "domain": "weibo.cn"
         }
